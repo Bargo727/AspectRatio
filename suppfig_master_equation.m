@@ -1,5 +1,7 @@
 clear;
 
+%In this code we show that the master equation reproduces bulk displacement and invasion dynamics seen in the LM. 
+
 %Size of Lattice
 M = 30;
 N = 60;
