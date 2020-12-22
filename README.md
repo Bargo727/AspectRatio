@@ -6,3 +6,5 @@ This repository contains all code used to output figures pertaining to the latti
 #fig6 contains files to produce figure 6 in the main paper.  fig6ae provides code to see spatial oscillations in the lattice model; within it is also commented code that allows one to compute the average strain fraction dynamics as is seen in fig 6e.  Follow the code commentary.  fig 6bcd provides code that produces oscillations from the reduced model in the paper, and, if you follow the commentary, will show you code for producing the plots the show the dependence of frequency on t_d and amplitude on H.  The remaining file, EffectiveOscillation.m, is a script that has the equations for the reduced model.
 
 #suppfig_master_equation.m produces figures that pertain to the master equation seen in the supplementary information.  Modify code within according to comments to obtain the necessary figures.
+
+#videos contains videos that illustrate bulk displacement, invasion, and spatial oscillations in the LM.  The name of the video files describes what the video file depicts.  This folder contains three files:  Spatial_Oscillation.mp4, Bulk_Displacment.mp4, and Invasion.mp4
